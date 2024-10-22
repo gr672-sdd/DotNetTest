@@ -1,0 +1,105 @@
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\SorokinDotNetTest.exe.config
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\SorokinDotNetTest.exe
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\SorokinDotNetTest.pdb
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Core.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.PeopleService.v1.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Newtonsoft.Json.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.pdb
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.xml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.pdb
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.xml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Core.pdb
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Core.xml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.PeopleService.v1.pdb
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.PeopleService.v1.xml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Newtonsoft.Json.xml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\App.g.cs
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest_MarkupCompile.cache
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest_MarkupCompile.lref
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.g.resources
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.Properties.Resources.resources
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.csproj.GenerateResource.cache
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.exe
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.pdb
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\ContactsWindow.g.cs
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\ContactsWindow.baml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.Mvc.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.Helpers.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.Mvc.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.Razor.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.WebPages.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.Mvc.pdb
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.Mvc.xml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.Helpers.xml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.Mvc.xml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.Razor.xml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.WebPages.xml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\CreateContact.g.cs
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\CreateContact.baml
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\EditWindow.g.cs
+D:\Program Files (x86)\Project\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\EditWindow.baml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\SorokinDotNetTest.exe.config
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\SorokinDotNetTest.exe
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\SorokinDotNetTest.pdb
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.Mvc.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Core.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.PeopleService.v1.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.Helpers.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.Razor.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.pdb
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.xml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.xml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.Mvc.pdb
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Auth.Mvc.xml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Core.pdb
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.Core.xml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.PeopleService.v1.pdb
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Google.Apis.PeopleService.v1.xml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.Helpers.xml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.Razor.xml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.csproj.AssemblyReference.cache
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\ContactsWindow.g.cs
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\CreateContact.g.cs
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\MainWindow.g.cs
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\App.g.cs
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest_MarkupCompile.cache
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest_MarkupCompile.lref
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\ContactsWindow.baml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\CreateContact.baml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\MainWindow.baml
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.g.resources
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.Properties.Resources.resources
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.csproj.GenerateResource.cache
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.csproj.CoreCompileInputs.cache
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.exe
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\SorokinDotNetTest.pdb
+C:\Users\danii\OneDrive\Производственная практика\SorokinDotNetTest\SorokinDotNetTest\obj\Debug\App.baml
