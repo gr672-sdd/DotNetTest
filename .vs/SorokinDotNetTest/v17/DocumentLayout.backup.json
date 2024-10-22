@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\danii\\OneDrive\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SorokinDotNetTest\\SorokinDaniilProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1D0A054-E82E-42CE-8085-AEBA7E142BE1}|SorokinDotNetTest\\SorokinDotNetTest.csproj|C:\\Users\\danii\\OneDrive\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SorokinDotNetTest\\SorokinDaniilProject\\sorokindotnettest\\createcontact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1D0A054-E82E-42CE-8085-AEBA7E142BE1}|SorokinDotNetTest\\SorokinDotNetTest.csproj|c:\\users\\danii\\onedrive\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\sorokindotnettest\\sorokindaniilproject\\sorokindotnettest\\createcontact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1D0A054-E82E-42CE-8085-AEBA7E142BE1}|SorokinDotNetTest\\SorokinDotNetTest.csproj|solutionrelative:sorokindotnettest\\createcontact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{E1D0A054-E82E-42CE-8085-AEBA7E142BE1}|SorokinDotNetTest\\SorokinDotNetTest.csproj|solutionrelative:sorokindotnettest\\contactswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1D0A054-E82E-42CE-8085-AEBA7E142BE1}|SorokinDotNetTest\\SorokinDotNetTest.csproj|c:\\users\\danii\\onedrive\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\sorokindotnettest\\sorokindaniilproject\\sorokindotnettest\\serviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1D0A054-E82E-42CE-8085-AEBA7E142BE1}|SorokinDotNetTest\\SorokinDotNetTest.csproj|C:\\Users\\danii\\OneDrive\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SorokinDotNetTest\\SorokinDaniilProject\\sorokindotnettest\\serviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1D0A054-E82E-42CE-8085-AEBA7E142BE1}|SorokinDotNetTest\\SorokinDotNetTest.csproj|solutionrelative:sorokindotnettest\\serviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,14 +27,11 @@
       "RelativeMoniker": "D:0:0:{E1D0A054-E82E-42CE-8085-AEBA7E142BE1}|SorokinDotNetTest\\SorokinDotNetTest.csproj|solutionrelative:sorokindotnettest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1D0A054-E82E-42CE-8085-AEBA7E142BE1}|SorokinDotNetTest\\SorokinDotNetTest.csproj|c:\\users\\danii\\onedrive\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\sorokindotnettest\\sorokindaniilproject\\sorokindotnettest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E1D0A054-E82E-42CE-8085-AEBA7E142BE1}|SorokinDotNetTest\\SorokinDotNetTest.csproj|C:\\Users\\danii\\OneDrive\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SorokinDotNetTest\\SorokinDaniilProject\\sorokindotnettest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E1D0A054-E82E-42CE-8085-AEBA7E142BE1}|SorokinDotNetTest\\SorokinDotNetTest.csproj|solutionrelative:sorokindotnettest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SorokinDotNetTest||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1D0A054-E82E-42CE-8085-AEBA7E142BE1}|SorokinDotNetTest\\SorokinDotNetTest.csproj|c:\\users\\danii\\onedrive\\\u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\sorokindotnettest\\sorokindaniilproject\\sorokindotnettest\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,11 +41,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateContact.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SorokinDotNetTest\\SorokinDaniilProject\\SorokinDotNetTest\\CreateContact.xaml.cs",
+              "RelativeDocumentMoniker": "SorokinDotNetTest\\CreateContact.xaml.cs",
+              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SorokinDotNetTest\\SorokinDaniilProject\\SorokinDotNetTest\\CreateContact.xaml.cs",
+              "RelativeToolTip": "SorokinDotNetTest\\CreateContact.xaml.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAIwIIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-04-06T13:29:38.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -68,8 +78,7 @@
               "RelativeToolTip": "SorokinDotNetTest\\ServiceClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T09:44:04.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T09:44:04.223Z"
             },
             {
               "$type": "Document",
@@ -80,8 +89,7 @@
               "ToolTip": "C:\\Users\\danii\\OneDrive\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SorokinDotNetTest\\SorokinDaniilProject\\SorokinDotNetTest\\SorokinDotNetTest.csproj",
               "RelativeToolTip": "SorokinDotNetTest\\SorokinDotNetTest.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-21T09:01:46.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T09:01:46.496Z"
             },
             {
               "$type": "Document",
@@ -93,21 +101,7 @@
               "RelativeToolTip": "SorokinDotNetTest\\MainWindow.xaml.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAwwEIAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2022-04-06T13:29:38.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateContact.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\danii\\OneDrive\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SorokinDotNetTest\\SorokinDaniilProject\\SorokinDotNetTest\\CreateContact.xaml.cs",
-              "RelativeDocumentMoniker": "SorokinDotNetTest\\CreateContact.xaml.cs",
-              "ToolTip": "C:\\Users\\danii\\OneDrive\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SorokinDotNetTest\\SorokinDaniilProject\\SorokinDotNetTest\\CreateContact.xaml.cs",
-              "RelativeToolTip": "SorokinDotNetTest\\CreateContact.xaml.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAiwKgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2022-04-06T13:29:38.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2022-04-06T13:29:38.913Z"
             },
             {
               "$type": "Document",
@@ -119,8 +113,7 @@
               "RelativeToolTip": "SorokinDotNetTest\\ContactsWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2022-04-06T13:29:38.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2022-04-06T13:29:38.916Z"
             },
             {
               "$type": "Document",
@@ -131,8 +124,7 @@
               "ToolTip": "C:\\Users\\danii\\OneDrive\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SorokinDotNetTest\\SorokinDaniilProject\\SorokinDotNetTest\\MainWindow.xaml",
               "RelativeToolTip": "SorokinDotNetTest\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2022-04-06T13:29:38.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2022-04-06T13:29:38.917Z"
             },
             {
               "$type": "Document",
@@ -143,8 +135,7 @@
               "ToolTip": "C:\\Users\\danii\\OneDrive\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SorokinDotNetTest\\SorokinDaniilProject\\SorokinDotNetTest\\CreateContact.xaml",
               "RelativeToolTip": "SorokinDotNetTest\\CreateContact.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2022-04-06T13:29:38.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2022-04-06T13:29:38.918Z"
             },
             {
               "$type": "Document",
@@ -155,8 +146,7 @@
               "ToolTip": "C:\\Users\\danii\\OneDrive\\\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SorokinDotNetTest\\SorokinDaniilProject\\SorokinDotNetTest\\ContactsWindow.xaml",
               "RelativeToolTip": "SorokinDotNetTest\\ContactsWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2022-04-06T13:29:38.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2022-04-06T13:29:38.919Z"
             }
           ]
         }

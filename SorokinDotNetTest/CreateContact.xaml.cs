@@ -20,7 +20,7 @@ namespace SorokinDotNetTest
         private Person _apiContact;
         private string _actionType;
         private ServiceClass _serviceClass;
-
+        IList<Person> existingContacts;
         public CreateContact(UserCredential credential, IList<Person> peopleList, string etag, string actionType)
         {
             InitializeComponent();
@@ -28,7 +28,7 @@ namespace SorokinDotNetTest
             _etagAll = etag;
             _actionType = actionType;
             _serviceClass = new ServiceClass();
-
+            existingContacts = peopleList;
             if (actionType == "Create")
             {
                 butCreatePeople.Content = "Создать";
@@ -83,7 +83,7 @@ namespace SorokinDotNetTest
         // data verification
         private bool ValidateInput()
         {
-            if (string.IsNullOrWhiteSpace(tbFirstName.Text) && string.IsNullOrWhiteSpace(tbLastName.Text))
+            if (string.IsNullOrWhiteSpace(tbFirstName.Text) || string.IsNullOrWhiteSpace(tbLastName.Text))
             {
                 MessageBox.Show("Заполните имя или фамилию", "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Warning);
                 return false;
@@ -94,8 +94,47 @@ namespace SorokinDotNetTest
                 MessageBox.Show("Email и телефон не могут быть пустыми", "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Warning);
                 return false;
             }
+            if (!string.IsNullOrWhiteSpace(tbEmail.Text) && !IsValidEmail(tbEmail.Text))
+            {
+                MessageBox.Show("Введите корректный email.", "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Warning);
+                return false;
+            }
+            if (!string.IsNullOrWhiteSpace(tbPhone.Text) && !IsValidPhoneNumber(tbPhone.Text))
+            {
+                MessageBox.Show("Введите корректный номер телефона.", "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Warning);
+                return false;
+            }
+            var duplicateContact = existingContacts.FirstOrDefault(contact =>
+                (contact.Names != null &&
+                 contact.Names[0].GivenName == tbFirstName.Text &&
+                 contact.Names[0].FamilyName == tbLastName.Text) ||
+                (contact.EmailAddresses != null &&
+                 contact.EmailAddresses[0].Value == tbEmail.Text) ||
+                (contact.PhoneNumbers != null &&
+                 contact.PhoneNumbers[0].Value == tbPhone.Text));
 
+            if (duplicateContact != null)
+            {
+                MessageBox.Show("Контакт с таким именем, электронной почтой или номером телефона уже существует.", "Ошибка дублирования", MessageBoxButton.OK, MessageBoxImage.Warning);
+                return false;
+            }
             return true;
+        }
+        private bool IsValidEmail(string email)
+        {
+            try
+            {
+                var addr = new System.Net.Mail.MailAddress(email);
+                return addr.Address == email;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+        private bool IsValidPhoneNumber(string phoneNumber)
+        {
+            return phoneNumber.All(char.IsDigit);
         }
 
         private async void butCreatePeople_Click(object sender, RoutedEventArgs e)
